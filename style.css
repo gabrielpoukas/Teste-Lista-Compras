@@ -109,10 +109,11 @@ footer {
     text-align: center;
     margin-top: 20px;
     padding: 10px 0;
-    background-color: rgba(0, 0, 0, 0.8);
     color: #ffffff;
-    font-size: 0.9rem;
+    font-size: 1.1rem;
     box-shadow: 0 -4px 6px rgba(0, 0, 0, 0.1);
+    font-weight: bold;
+
 }
 
 footer a {
@@ -124,4 +125,5 @@ footer a {
 footer a:hover {
     color: #0056b3;
     text-decoration: underline;
+
 }
